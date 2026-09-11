@@ -23,8 +23,7 @@ export function Footer() {
             href="https://www.bingdou.com.cn"
             target="_blank"
             className="border-b"
-          >
-            冰豆网
+          >Bingdou
           </TrackLink>
           . QRzone. {t("reserve_rights")}
         </p>
