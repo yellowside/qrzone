@@ -62,7 +62,7 @@
     }
   },
   "header": {
-    "github": "github"
+    "github": "tools"
   },
   "qrcodes": {
     "common": {
@@ -272,7 +272,7 @@
     }
   },
   "footer": {
-    "reserve_rights": "保留所有权利。"
+    "reserve_rights": "All Rights Reserved."
   },
   "loading": {
     "loading_msg": "加载中"
