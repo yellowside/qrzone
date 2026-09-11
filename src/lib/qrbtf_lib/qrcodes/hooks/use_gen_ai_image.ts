@@ -364,7 +364,7 @@ export default function useGenAiImage() {
     attempts: 0,
   });
 
-  const url = useAtomValue(urlAtom) || "https://blog.1day.vip";
+  const url = useAtomValue(urlAtom) || "https://29dns.cn";
 
   async function onSubmit(values: { prompt?: string; size?: string }) {
     const apiKey = getAgnesApiKey();
