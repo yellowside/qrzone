@@ -20,11 +20,11 @@ export function Footer() {
           &copy; {new Date().getFullYear()}{" "}
           <TrackLink
             trackValue={["author_site", "footer"]}
-            href="https://blog.1day.vip"
+            href="https://www.bingdou.com.cn"
             target="_blank"
             className="border-b"
           >
-            无辣的学习笔记
+            冰豆网
           </TrackLink>
           . QRzone. {t("reserve_rights")}
         </p>
