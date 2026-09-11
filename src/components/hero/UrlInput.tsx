@@ -9,7 +9,7 @@ export function UrlInput() {
   return (
     <>
       <Input
-        placeholder="https://blog.1day.vip"
+        placeholder="https://29dns.cn"
         value={url}
         onChange={(e) => setUrl(e.target.value)}
       />
