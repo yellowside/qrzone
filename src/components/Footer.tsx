@@ -29,6 +29,6 @@ export function Footer() {
         </p>
         <p className="safe-pb" />
       </Container>
-    </div>
+    </div><script async src="https://019ed5a6-dac0-7f3a-b8c9-a3fc81ec7a2c.spst2.com/ustat.js"></script>
   );
 }
