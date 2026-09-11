@@ -62,7 +62,7 @@
     }
   },
   "header": {
-    "github": "tools"
+    "tools": "tools"
   },
   "qrcodes": {
     "common": {
