@@ -2,9 +2,9 @@
   "metadata": {
     "title": {
       "template": "%s - QRzone",
-      "default": "微思格 - AI 二维码生成器"
+      "default": "微思格 - AI二维码生成器"
     },
-    "description": "AI & 参数化二维码生成器",
+    "description": "AI二维码生成器",
     "keywords": {
       "0": "QR Code",
       "1": "qrcode",
@@ -17,7 +17,7 @@
   "index": {
     "hero": {
       "title": "微思格",
-      "subtitle": "AI & 参数化二维码生成器。",
+      "subtitle": "AI二维码生成器",
       "url": "URL 链接",
       "scan": "扫描"
     },
