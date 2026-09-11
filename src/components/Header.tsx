@@ -260,8 +260,8 @@ export function Header() {
   const t = useTranslations("header");
   const headerLinks = [
     {
-      name: t("github"),
-      href: "https://github.com/haihaipypy/qrzone",
+      name: t("实用工具"),
+      href: "https://29dns.cn/",
       target: "_blank",
     },
   ];
