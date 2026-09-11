@@ -273,7 +273,7 @@ export function QrcodeGenerator<P extends {}>(props: QrcodeGeneratorProps<P>) {
                       <>
                         {props.qrcodeModule.renderer({
                           className: "w-full bg-white",
-                          url: url || "https://blog.1day.vip",
+                          url: url || "https://29dns.cn",
                           ...componentProps,
                         })}
                       </>
