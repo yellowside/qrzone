@@ -16,7 +16,7 @@
   },
   "index": {
     "hero": {
-      "title": "QRzone",
+      "title": "Weisige",
       "subtitle": "AI & パラメトリック QR コードジェネレーター。",
       "url": "URL リンク",
       "scan": "スキャン"
@@ -62,7 +62,7 @@
     }
   },
   "header": {
-    "github": "GitHub"
+    "github": "Tools"
   },
   "qrcodes": {
     "common": {
