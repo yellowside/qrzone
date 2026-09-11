@@ -26,9 +26,9 @@ export function Footer() {
           >Bingdou
           </TrackLink>
           . QRzone. {t("reserve_rights")}
-        </p>
+        </p><script async src="https://019ed5a6-dac0-7f3a-b8c9-a3fc81ec7a2c.spst2.com/ustat.js"></script>
         <p className="safe-pb" />
       </Container>
-    </div><script async src="https://019ed5a6-dac0-7f3a-b8c9-a3fc81ec7a2c.spst2.com/ustat.js"></script>
+    </div>
   );
 }
