@@ -16,7 +16,7 @@
   },
   "index": {
     "hero": {
-      "title": "QRzone",
+      "title": "Weisige",
       "subtitle": "AI & parametric QR code generator.",
       "url": "URL",
       "scan": "Scan"
@@ -62,7 +62,7 @@
     }
   },
   "header": {
-    "github": "GitHub"
+    "github": "Tools"
   },
   "qrcodes": {
     "common": {
