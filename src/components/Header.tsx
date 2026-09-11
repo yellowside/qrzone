@@ -260,7 +260,7 @@ export function Header() {
   const t = useTranslations("header");
   const headerLinks = [
     {
-      name: t("github"),
+      name: t("tools"),
       href: "https://29dns.cn/",
       target: "_blank",
     },
