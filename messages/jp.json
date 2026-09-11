@@ -2,9 +2,9 @@
   "metadata": {
     "title": {
       "template": "%s - QRzone",
-      "default": "QRzone - AI QR コードジェネレーター"
+      "default": "Weisige - AI QR コードジェネレーター"
     },
-    "description": "AI & パラメトリック QR コードジェネレーター。",
+    "description": "AI QR コードジェネレーター。",
     "keywords": {
       "0": "QR Code",
       "1": "qrcode",
@@ -17,7 +17,7 @@
   "index": {
     "hero": {
       "title": "Weisige",
-      "subtitle": "AI & パラメトリック QR コードジェネレーター。",
+      "subtitle": "AI QR コードジェネレーター。",
       "url": "URL リンク",
       "scan": "スキャン"
     },
