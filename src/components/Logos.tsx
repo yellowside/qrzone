@@ -10,7 +10,7 @@ export function QrbtfLogo(props: React.ComponentPropsWithoutRef<"span">) {
         props.className,
       )}
     >
-      QR<span className="opacity-60">zone</span>
+      微思格 <span className="opacity-60">QRzone</span>
     </span>
   );
 }
