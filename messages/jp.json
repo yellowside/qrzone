@@ -62,7 +62,7 @@
     }
   },
   "header": {
-    "github": "github"
+    "github": "tools"
   },
   "qrcodes": {
     "common": {
@@ -233,7 +233,7 @@
     }
   },
   "footer": {
-    "reserve_rights": "無断転載を禁じます。"
+    "reserve_rights": "All Rights Reserved."
   },
   "loading": {
     "loading_msg": "読み込み中"
