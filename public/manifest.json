@@ -1,6 +1,6 @@
 {
-  "name": "微思格二维码生成与解析工具",
-  "short_name": "微思格二维码生成与解析工具",
+  "name": "微思格AI二维码生成器",
+  "short_name": "微思格AI二维码生成器",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
