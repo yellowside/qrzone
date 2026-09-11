@@ -12,7 +12,7 @@ export async function generateMetadata({
 
   return {
     metadataBase: new URL(
-      process.env.NEXT_PUBLIC_SITE_URL || "https://blog.1day.vip",
+      process.env.NEXT_PUBLIC_SITE_URL || "https://29dns.cn",
     ),
     title: {
       template: t("title.template"),
