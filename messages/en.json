@@ -2,9 +2,9 @@
   "metadata": {
     "title": {
       "template": "%s - QRzone",
-      "default": "QRzone - AI QR Code Generator"
+      "default": "Weisige - AI QR Code Generator"
     },
-    "description": "AI & parametric QR code generator.",
+    "description": "AI QR code generator.",
     "keywords": {
       "0": "QR Code",
       "1": "qrcode",
@@ -17,7 +17,7 @@
   "index": {
     "hero": {
       "title": "Weisige",
-      "subtitle": "AI & parametric QR code generator.",
+      "subtitle": "AI QR code generator.",
       "url": "URL",
       "scan": "Scan"
     },
